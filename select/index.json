@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Internet Girl",
+  "base_artist": "KATSEYE",
+  "createdAt": "2026-04-03T00:20:03.760963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Internet Girl",
+      "artist": "Aaron Carter",
+      "has_synced": false,
+      "path": "select/01_My_Internet_Girl_Aaron_Carter.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Internet Girl",
+      "artist": "Aaron Carter",
+      "has_synced": false,
+      "path": "select/02_My_Internet_Girl_Aaron_Carter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Internet Girl",
+      "artist": "Aaron Carter",
+      "has_synced": true,
+      "path": "select/03_My_Internet_Girl_Aaron_Carter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "internet girl",
+      "artist": "Justend & Souly Had",
+      "has_synced": true,
+      "path": "select/04_internet_girl_Justend_&_Souly_Had.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "internet girl",
+      "artist": "Justend",
+      "has_synced": true,
+      "path": "select/05_internet_girl_Justend.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "internet girl",
+      "artist": "m1v",
+      "has_synced": true,
+      "path": "select/06_internet_girl_m1v.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Internet Girl",
+      "artist": "Diesel Boy",
+      "has_synced": false,
+      "path": "select/07_Internet_Girl_Diesel_Boy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Internet Girl",
+      "artist": "Carter, Aaron",
+      "has_synced": false,
+      "path": "select/08_My_Internet_Girl_Carter,_Aaron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Internet Girl",
+      "artist": "Mana Garden",
+      "has_synced": true,
+      "path": "select/09_Internet_Girl_Mana_Garden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "the world is big (feat. Internet Girl)",
+      "artist": "Godly the Ruler",
+      "has_synced": true,
+      "path": "select/10_the_world_is_big_(feat._Internet_Girl)_Godly_the_Ruler.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Internet Girl / Interlude:",
+      "artist": "Aaron Carter",
+      "has_synced": true,
+      "path": "select/11_My_Internet_Girl___Interlude_Aaron_Carter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Internet Girl (야후)",
+      "artist": "양파",
+      "has_synced": true,
+      "path": "select/12_Internet_Girl_(야후)_양파.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Internet Girl",
+      "artist": "cibi",
+      "has_synced": true,
+      "path": "select/13_Internet_Girl_cibi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "internet girl",
+      "artist": "Cloud Dstrct",
+      "has_synced": false,
+      "path": "select/14_internet_girl_Cloud_Dstrct.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Internet Girl",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/pl_01_Internet_Girl_KATSEYE.txt"
+    }
+  ]
+}
