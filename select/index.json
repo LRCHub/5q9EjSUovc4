@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Internet Girl",
   "base_artist": "KATSEYE",
-  "createdAt": "2026-04-03T00:20:03.760963Z",
+  "createdAt": "2026-04-03T16:14:05.062061Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,6 +123,15 @@
       "artist": "KATSEYE",
       "has_synced": false,
       "path": "select/pl_01_Internet_Girl_KATSEYE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Internet Girl",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/localdb_01_Internet_Girl_KATSEYE.txt",
+      "repo_name": "5q9EjSUovc4"
     }
   ]
 }
